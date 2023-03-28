@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+
     "test": "mocha src/test/*.test.js",
     "start": "nodemon src/app.js",
     "debug": "nodemon --inspect=0.0.0.0 src/app.js"
